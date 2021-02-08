@@ -1,0 +1,21 @@
+{
+    "name": "rainbow-web",
+    "displayName": "Rainbow Web",
+    "description": "A beautiful, high-contrasting theme utilising color codes from web colors and folllowing a vibrant rainbow like color palette to make your code pop out of screen",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rainbow Web",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rainbow Web-color-theme.json"
+            }
+        ]
+    }
+}
