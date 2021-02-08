@@ -68,48 +68,37 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 | MidnightBlue      | #191970  |
 
 DarkBlue 00008B
+| Element | Color Name | Hex Code |
+---- | ----- | -----
 
-editor background:
-| MidnightBlue | #191970 |
-#000C18
+| editor background: | | #000C18 |
 
-comment :
-| dimgray | #696969 |
+<!-- | MidnightBlue | #191970 | -->
+
+| comment : | dimgray | #696969 |
 
 <!-- variable :
 | lightCyan | cyan | #00FFFF | -->
 
-Invalid:
-| tomato | #FF6347 |
+| Invalid: | tomato | #FF6347 |
 
-Keyword, Storage:
-| hotpink | #FF69B4 |
+| Keyword, Storage: | hotpink | #FF69B4 |
 
-Operator, Misc:
-| mediumturquoise | #48D1CC |
+| Operator, Misc: | mediumturquoise | #48D1CC |
 
-Tag:
-| mediumturquoise | #48D1CC |
+| Tag: | mediumturquoise | #48D1CC |
 
-Function, Special Method:
-| lightskyblue | #87CEFA |
+| Function, Special Method: | lightskyblue | #87CEFA |
 
-Block Level Variables,
-Other Variable, String Link:
-| gold | #FFD700 |
+| Block Level Variables, Other Variable, String Link: | gold | #FFD700 |
 
-Number, Constant, Function Argument, Tag Attribute, Embedded:
-| tomato | #FF6347 |
+| Number, Constant, Function Argument, Tag Attribute, Embedded: | tomato | #FF6347 |
 
-String, Symbols, Inherited Class, Markup Heading:
-| salmon | #FA8072 |
+| String, Symbols, Inherited Class, Markup Heading: | salmon | #FA8072 |
 
-Class, Support:
-| gold | #FFD700 |
+| Class, Support: | gold | #FFD700 |
 
-Entity Types,
-CSS Class and Support:
-| steelblue | #4682B4 |
+| Entity Types,
+CSS Class and Support: | steelblue | #4682B4 |
 
-Attributes:
-| BlueViolet | #8A2BE2 |
+| Attributes: | BlueViolet | #8A2BE2 |
